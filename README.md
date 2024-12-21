@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tejas Gondaliya and I'm a Software Developer, from Quantumbot Pvt. Ltd.</h2>
+<h2 align="left">Hi 👋! My name is Tejas Gondaliya and I'm a Software Developer, from Swan Softweb Solution.</h2>
 
 ###
 
